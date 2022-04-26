@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32414.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "error_C3861_bug", "error_C3861_bug\error_C3861_bug.vcxproj", "{04496A09-FA61-4026-B5F8-AED44D4D94BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04496A09-FA61-4026-B5F8-AED44D4D94BC}.Debug|x64.ActiveCfg = Debug|x64
+		{04496A09-FA61-4026-B5F8-AED44D4D94BC}.Debug|x64.Build.0 = Debug|x64
+		{04496A09-FA61-4026-B5F8-AED44D4D94BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{04496A09-FA61-4026-B5F8-AED44D4D94BC}.Debug|x86.Build.0 = Debug|Win32
+		{04496A09-FA61-4026-B5F8-AED44D4D94BC}.Release|x64.ActiveCfg = Release|x64
+		{04496A09-FA61-4026-B5F8-AED44D4D94BC}.Release|x64.Build.0 = Release|x64
+		{04496A09-FA61-4026-B5F8-AED44D4D94BC}.Release|x86.ActiveCfg = Release|Win32
+		{04496A09-FA61-4026-B5F8-AED44D4D94BC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AA6AE63-6CD3-47C4-827B-3CC8D4605EC1}
+	EndGlobalSection
+EndGlobal
