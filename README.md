@@ -1,5 +1,9 @@
 # Bug report
 
+## Reported in
+
+[Developer Community VisualStudio](https://developercommunity.visualstudio.com/t/Identifier-not-found-with-multiple-inher/10023920)
+
 ## Build report
 
 > Build started...
